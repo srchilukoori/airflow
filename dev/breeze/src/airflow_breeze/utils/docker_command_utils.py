@@ -97,6 +97,7 @@ VOLUMES_FOR_SELECTED_MOUNTS = [
     ("docker-stack-docs", "/opt/airflow/docker-stack-docs"),
     ("docker-tests", "/opt/airflow/docker-tests"),
     ("docs", "/opt/airflow/docs"),
+    ("docs-theme", "/opt/airflow/docs-theme"),
     ("generated", "/opt/airflow/generated"),
     ("go-sdk", "/opt/airflow/go-sdk"),
     ("helm-tests", "/opt/airflow/helm-tests"),
